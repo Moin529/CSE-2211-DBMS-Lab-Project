@@ -298,7 +298,8 @@ GET /admin/analytics
 - **Progressive Web App** - Offline functionality
 - **Advanced Caching** - Redis integration
 
-### Demo Video Link
+## 🎥 Demo Video Link
+
 - **https://youtu.be/Sm3QlgE534M**
 
 ## 👥 Team
