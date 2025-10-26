@@ -2,7 +2,7 @@
 
 A full-stack movie booking application built with React, Supabase, and modern web technologies. CineVerse provides a seamless experience for users to browse movies, book tickets, and manage their cinema experience.
 
-![CineVerse Logo](client/src/assets/cineverse-logo.svg)
+![CineVerse Logo](client/src/assets/logo.svg)
 
 ## ✨ Features
 
