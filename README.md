@@ -298,9 +298,8 @@ GET /admin/analytics
 - **Progressive Web App** - Offline functionality
 - **Advanced Caching** - Redis integration
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Demo Video Link
+- **https://youtu.be/Sm3QlgE534M**
 
 ## 👥 Team
 
