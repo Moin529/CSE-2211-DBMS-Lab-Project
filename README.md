@@ -304,10 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Frontend Development** - React, Tailwind CSS, Vite
-- **Backend Development** - Supabase, PostgreSQL
-- **UI/UX Design** - Modern, responsive design
-- **Database Design** - Optimized schema with RLS
+- **Mahmudur Rahman Moin** - Roll : AE-30
+- **Sadman Shihab** - Roll : FH-36
+- **CSEDU-29**
 
 ## 📞 Support
 
@@ -315,6 +314,10 @@ For support and questions:
 - Create an issue in the GitHub repository
 - Check the [database documentation](database/README.md)
 - Review the troubleshooting section above
+
+## 📞 Contact
+- mrmoin529@gmail.com
+- sadmanshihab716@gmail.com
 
 ## 🙏 Acknowledgments
 
