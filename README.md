@@ -304,9 +304,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Mahmudur Rahman Moin** - Roll : AE-30
-- **Sadman Shihab** - Roll : FH-36
-- **CSEDU-29**
+- **Mahmudur Rahman Moin**
+- **Sadman Shihab**
 
 ## 📞 Support
 
